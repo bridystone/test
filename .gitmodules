@@ -1,0 +1,3 @@
+[submodule "input/themes/hestia"]
+	path = input/themes/hestia
+	url = git@github.com:bridystone/hestia_4_publii.git
