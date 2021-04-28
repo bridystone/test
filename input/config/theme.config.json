@@ -8,6 +8,8 @@
     },
     "customConfig": {
         "bigheader_enabled": true,
+        "bigheader_title_alignment": "left",
+        "bigheader_widget_html": "<h3>Test</h3>\n<p><a href=\"#f\" title=\"xdgsdfg\">test</a></p>",
         "bigheader_title": "Welcome to Hestia!",
         "bigheader_subtitle": "adopted for Publii",
         "bigheader_button_enabled": true,
