@@ -1,0 +1,40 @@
+{
+    "config": {
+        "postsPerPage": 12,
+        "tagsPostsPerPage": 12,
+        "authorsPostsPerPage": 12,
+        "excerptLength": 25,
+        "logo": ""
+    },
+    "customConfig": {
+        "bigheader_enabled": true,
+        "bigheader_title": "Welcome to Hestia!",
+        "bigheader_subtitle": "adopted for Publii",
+        "bigheader_button_enabled": true,
+        "bigheader_button_text": "More",
+        "bigheader_button_link": "#more",
+        "bigheader_effect": "slider",
+        "bigheader_background": "media/website/slider1.jpg",
+        "bigheader_parallax_foreground": "",
+        "bigheader_slider1_background": "media/website/slider1-2.jpg",
+        "bigheader_slider2_background": "",
+        "bigheader_slider3_background": "",
+        "bigheader_slider4_background": "",
+        "bigheader_slider_interval": "10000",
+        "bigheader_slider_indicators_enabled": true,
+        "mainWidth": "860px",
+        "sidebarWidth": "300px",
+        "selectedPosts": "",
+        "amountSelectedtPosts": "3",
+        "authors": true,
+        "authorsNumber": "5",
+        "faviconUpload": "",
+        "faviconExtension": "image/x-icon"
+    },
+    "postConfig": {
+        "displayAuthorBio": 1
+    },
+    "defaultTemplates": {
+        "post": ""
+    }
+}
