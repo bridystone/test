@@ -42,13 +42,13 @@
                 ]
             },
             {
-                "id": 1619284701040,
+                "id": 1620329351545,
                 "label": "Blog",
                 "title": "",
-                "type": "internal",
+                "type": "tag",
                 "target": "_self",
                 "rel": "",
-                "link": "#",
+                "link": 5,
                 "cssClass": "",
                 "isHidden": false,
                 "items": []

@@ -11,9 +11,9 @@
     "language": "en-gb",
     "spellchecking": false,
     "advanced": {
-        "cssCompression": 1,
-        "htmlCompression": 1,
-        "htmlCompressionRemoveComments": 1,
+        "cssCompression": false,
+        "htmlCompression": false,
+        "htmlCompressionRemoveComments": false,
         "imagesQuality": 60,
         "responsiveImages": 1,
         "mediaLazyLoad": 1,

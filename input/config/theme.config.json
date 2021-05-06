@@ -7,6 +7,9 @@
         "logo": ""
     },
     "customConfig": {
+        "blog_header_title": "Blog",
+        "blog_header_configuration": "big_picture",
+        "blog_header_picture": "media/website/cropped-personal-799521-Kopie.jpg",
         "bigheader_enabled": true,
         "bigheader_title": "Welcome to Hestia!",
         "bigheader_subtitle": "adopted for Publii",
@@ -42,7 +45,7 @@
         "features_feature3_link": "#",
         "about_enabled": true,
         "about_background": "media/website/contact.jpg",
-        "about_postid": 1,
+        "about_postid": 19,
         "mainWidth": "860px",
         "sidebarWidth": "300px",
         "selectedPosts": "",
